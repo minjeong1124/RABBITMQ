@@ -8,7 +8,6 @@
 
  즉, 인스턴스가 데이터를 서로 교환할 때 사용하는 방법
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ca5627d-f85f-4d6d-a8ad-88d23d937e47/Untitled.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6ca5627d-f85f-4d6d-a8ad-88d23d937e47/Untitled.png)
 
 `Exchange` : Publisher(Producer)로부터 수신한 메시지를 큐에 분배하는 경로의 역할
 `Queue` : 메시지를 메모리나 디스크에 저장했다가 Consumer에게 메시지를 전달
