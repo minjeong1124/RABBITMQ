@@ -7,6 +7,7 @@
         </dependency>
 
 2. application.properties
+
 chloe.queue.name.morning.message = MORNING-MESSAGE
 
 spring.rabbitmq.host=35.240.171.227
