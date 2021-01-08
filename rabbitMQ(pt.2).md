@@ -7,6 +7,14 @@
         </dependency>
 
 2. application.properties
+chloe.queue.name.morning.message = MORNING-MESSAGE
+
+spring.rabbitmq.host=35.240.171.227
+spring.rabbitmq.port=5672
+spring.rabbitmq.username={USERNAME}
+spring.rabbitmq.password={PASSWORD}
+
+
 
 2. DTO
 
